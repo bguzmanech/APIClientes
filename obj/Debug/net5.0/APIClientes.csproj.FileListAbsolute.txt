@@ -141,3 +141,10 @@ C:\APIClientes\APIClientes\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\APIClientes\APIClientes\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\APIClientes\APIClientes\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\APIClientes\APIClientes\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\APIClientes\APIClientes\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\APIClientes\APIClientes\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\APIClientes\APIClientes\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\APIClientes\APIClientes\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\APIClientes\APIClientes\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\APIClientes\APIClientes\bin\Debug\net5.0\Scrutor.dll
+C:\APIClientes\APIClientes\bin\Debug\net5.0\Swashbuckle.AspNetCore.Filters.dll

@@ -16,6 +16,7 @@ namespace APIClientes
             {
                 config.CreateMap<ClienteDto, Cliente>();
                 config.CreateMap<Cliente, ClienteDto>();
+                config.CreateMap<User, UserDto>().ReverseMap();
             });
             return mappingConfig;
         }
